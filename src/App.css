@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=BBH+Bogle&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "BBH Bogle", cursive;
+}
+
+body {
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  background-image: url("../public/wallpaper.jpg");
+}
+.cookie-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.cookie-button:focus {
+  outline: none;
+}
+
+h2 {
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+}
